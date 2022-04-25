@@ -5,20 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e0034373-34c3-4fb5-acc1-197eb419a8c8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/server/nest-cli.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/server/src/index.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/server/tsconfig.build.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/server/tsconfig.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/shared/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/shared/src/auth/auth.module.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/shared/src/auth/guards/secret-from-header-auth.guard.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/shared/src/auth/passports/passport-api-key/strategy.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/shared/src/auth/strategies/secret-from-header.strategy.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/shared/src/index.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/shared/tsconfig.build.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/shared/tsconfig.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -130,7 +117,7 @@
       <option name="presentableId" value="Default" />
       <updated>1650458625129</updated>
       <workItem from="1650458630706" duration="5421000" />
-      <workItem from="1650868529579" duration="2030000" />
+      <workItem from="1650868529579" duration="2503000" />
     </task>
     <servers />
   </component>
