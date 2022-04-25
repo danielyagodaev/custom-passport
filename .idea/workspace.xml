@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e0034373-34c3-4fb5-acc1-197eb419a8c8" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/server/nest-cli.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/server/src/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/server/tsconfig.build.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/server/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/shared/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/shared/src/auth/auth.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/shared/src/auth/guards/secret-from-header-auth.guard.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/shared/src/auth/passports/passport-api-key/strategy.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/shared/src/auth/strategies/secret-from-header.strategy.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/shared/src/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/shared/tsconfig.build.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/shared/tsconfig.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="TypeScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="283wYYdpI1wIyx4LkhgRHtKVGp6" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/packages/server/src" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="prettierjs.PrettierConfiguration.Package" value="$PROJECT_DIR$/node_modules/prettier" />
+    <property name="ts.external.directory.path" value="$PROJECT_DIR$/node_modules/typescript/lib" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/packages/server/src" />
+      <recent name="$PROJECT_DIR$/packages/server" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/packages/shared" />
+      <recent name="$PROJECT_DIR$/packages/shared/src/auth/strategies" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/packages/server/src" />
+      <recent name="$PROJECT_DIR$/packages/shared" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager" selected="npm.start">
+    <configuration name="build (1)" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/packages/server/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="build" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="build" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/packages/shared/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="build" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="start" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/packages/server/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="start:dev" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/packages/server/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start:dev" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.start" />
+        <item itemvalue="npm.build" />
+        <item itemvalue="npm.build (1)" />
+        <item itemvalue="npm.start:dev" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e0034373-34c3-4fb5-acc1-197eb419a8c8" name="Changes" comment="" />
+      <created>1650458625129</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1650458625129</updated>
+      <workItem from="1650458630706" duration="5421000" />
+      <workItem from="1650868529579" duration="2030000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+    <option name="exactExcludedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/packages/shared/src/index.js" />
+        <option value="$PROJECT_DIR$/packages/shared/src/auth/auth.module.js" />
+        <option value="$PROJECT_DIR$/packages/shared/src/auth/guards/secret-from-header-auth.guard.js" />
+        <option value="$PROJECT_DIR$/packages/shared/src/auth/strategies/secret-from-header.strategy.js" />
+        <option value="$PROJECT_DIR$/packages/shared/src/auth/passports/passport-api-key/strategy.js" />
+        <option value="$PROJECT_DIR$/packages/server/src/auth/guards/secret-from-header-auth.guard.js" />
+        <option value="$PROJECT_DIR$/packages/server/src/auth/passports/passport-api-key/strategy.js" />
+        <option value="$PROJECT_DIR$/packages/server/src/auth/strategies/secret-from-header.strategy.js" />
+        <option value="$PROJECT_DIR$/packages/server/src/auth/auth.module.js" />
+      </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/packages/server/src/app.controller.ts</url>
+          <line>11</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
